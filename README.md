@@ -21,7 +21,6 @@
 
 ## 📌 Achievements
 - Saigonchildren Scholarship | IUH Semester Scholarship  
-- ICPC Vietnam National Contest – Participant  
 
 ## 🌐 Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/ng%E1%BB%8Dc-t%C3%A2n-ho%C3%A0ng-941a05252/)  
