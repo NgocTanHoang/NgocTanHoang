@@ -1,7 +1,11 @@
 # Hi, I'm Ngoc Tan Hoang 👋  
 
+<div align="center">
+  
+[![Welcome](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub!)](https://git.io/typing-svg)
+
 🎓 Final-year Data Science student at IUH (Vietnam)  
-💻 Aspiring AI Engineer | Passionate about Machine Learning, Deep Learning, NLP, and Computer Vision  
+💻 AI Engineer | Passionate about Machine Learning, Deep Learning, NLP, and Computer Vision  
 
 ## 🚀 About Me
 - Experienced in building **AI-driven applications** from prototype to deployment.  
