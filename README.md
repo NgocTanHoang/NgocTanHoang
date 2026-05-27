@@ -1,29 +1,59 @@
-# Hi, I'm Ngoc Tan Hoang 👋  
-  
-[![Welcome](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub!)](https://git.io/typing-svg)
+# Ngoc Tan Hoang
 
-🎓 Final-year Data Science student at IUH (Vietnam)  
-💻 AI Engineer | Passionate about Machine Learning, Deep Learning, NLP, and Computer Vision  
+[LinkedIn](https://linkedin.com/in/ngọc-tân-hoàng-941a05252/) | [Email](mailto:your-email@gmail.com)
 
-## About Me
-- Experienced in building **AI-driven applications** from prototype to deployment.  
-- Interested in applying **Computer Vision** and **NLP** to solve real-world problems.  
-- Strong foundation in **Python, PyTorch, TensorFlow, Hugging Face, Scikit-learn, SQL, and OpenCV**.  
+Final-year Data Science student at Industrial University of Ho Chi Minh City (IUH), specializing in AI Engineering. Focused on building production-ready Machine Learning, Deep Learning, and Agentic AI applications from prototype to deployment.
 
-## Featured Projects
-- **Driver Drowsiness Detection**: Real-time fatigue monitoring using CNNs, OpenCV, and MediaPipe.  
-- **Twitch Streamers Dashboard**: Interactive analytics in Power BI for streamer growth and engagement.  
-- **Movie Ticket Booking System**: Full-stack web app with authentication, seat selection, and payment simulation.  
+---
 
-## Technical Skills
-- **Programming**: Python, SQL  
-- **AI/ML**: PyTorch, TensorFlow, Hugging Face, Scikit-learn, OpenCV  
-- **Data Tools**: Pandas, NumPy, Matplotlib, Power BI  
-- **Other**: Git/GitHub, Jupyter, Colab, Kaggle  
+### About Me
 
-## Achievements
-- Saigonchildren Scholarship | IUH Semester Scholarship  
+- **Current Focus**: Developing production-ready AI Agents, RAG pipelines, and automated reporting systems.
+- **Core Expertise**: Designing and training computer vision models (CNNs, ViT) and processing semantic text data.
+- **Professional Outlook**: Seeking opportunities to contribute as an AI Engineer Intern or Junior Data Scientist.
 
-## Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/ng%E1%BB%8Dc-t%C3%A2n-ho%C3%A0ng-941a05252/)  
-- [GitHub](https://github.com/NgocTanHoang)  
+---
+
+### Technical Skills
+
+| Category | Technologies & Tools |
+| :--- | :--- |
+| **Programming** | `Python`, `SQL`, `C++` |
+| **AI / Deep Learning** | `PyTorch`, `TensorFlow`, `Hugging Face`, `Scikit-learn` |
+| **Computer Vision / NLP** | `OpenCV`, `MediaPipe`, `Transformers` |
+| **Data Engineering & Ops** | `FastAPI`, `Qdrant`, `Pandas`, `NumPy`, `Git / GitHub` |
+| **Analytics & Cloud** | `Power BI`, `Google Cloud Platform (GCP)`, `Looker Studio` |
+
+---
+
+### Featured Projects
+
+#### Driver Drowsiness Detection System
+*Real-time fatigue monitoring using advanced Computer Vision techniques.*
+- **Tech Stack**: `Python`, `PyTorch`, `OpenCV`, `MediaPipe`
+- Engineered a pipeline to track facial landmarks and calculate Eye Aspect Ratio (EAR) to trigger real-time drowsiness alerts.
+- [View Repository](https://github.com/NgocTanHoang)
+
+#### AI Agent System for Marketing & Reporting Automation
+*Multi-agent system designed to automate market research and data synthesis.*
+- **Tech Stack**: `CrewAI`, `NVIDIA NIM`, `FastAPI`, `Qdrant`
+- Orchestrated multiple specialized agents to perform asynchronous web scraping, competitive analysis, and automated reporting.
+- [View Repository](https://github.com/NgocTanHoang)
+
+
+
+---
+
+### Honors & Achievements
+
+- **Gold Level** – WorldQuant Challenge | Registered for International Quant Championship
+- **Scholarships** – Saigonchildren Scholarship | IUH Semester Scholarship (GPA: 3.28 / 4.0)
+
+---
+
+### GitHub Statistics
+
+<p align="left">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=NgocTanHoang&show_icons=true&theme=neutral&hide_border=true&title_color=0077B5&icon_color=0077B5" alt="GitHub Stats" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NgocTanHoang&layout=compact&theme=neutral&hide_border=true&title_color=0077B5" alt="Top Languages" />
+</p>
