@@ -1,6 +1,6 @@
 # Ngoc Tan Hoang
 
-[LinkedIn](https://linkedin.com/in/ngọc-tân-hoàng-941a05252/) | [Email](mailto:your-email@gmail.com)
+[LinkedIn](https://linkedin.com/in/ngọc-tân-hoàng-941a05252/) | [Email](mailto:hoangngoctanptth@gmail.com)
 
 Final-year Data Science student at Industrial University of Ho Chi Minh City (IUH), specializing in AI Engineering. Focused on building production-ready Machine Learning, Deep Learning, and Agentic AI applications from prototype to deployment.
 
